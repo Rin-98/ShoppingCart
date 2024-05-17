@@ -13,13 +13,13 @@ let isCartShowing = false;
 const products = [
   {
     id: 1,
-    name: "Kyar Man Hone",
+    name: "Fluzar",
     price: 12.99,
     category: "medical",
   },
   {
     id: 2,
-    name: "Lee",
+    name: "wood-sword",
     price: 3.99,
     category: "stick",
   },
@@ -31,7 +31,7 @@ const products = [
   },
   {
     id: 4,
-    name: "Late 3 Kg",
+    name: "solmux",
     price: 5.99,
     category: "medical",
   },
